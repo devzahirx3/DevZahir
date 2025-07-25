@@ -1,4 +1,6 @@
-# 👨‍💻 Dev Zahir
+<img src="https://i.ibb.co/LXc7LfG/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="100"/>
+
+# Dev Zahir
 
 **Full-Stack Developer | AI Specialist | Self-Taught Creator**  
 📍 California, USA  
