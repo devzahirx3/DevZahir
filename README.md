@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/LXc7LfG/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="100"/>
+<p align="center">
+  <img src="https://i.ibb.co/LXc7LfGM/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="120"/>
+</p>
 
 # Dev Zahir
 
