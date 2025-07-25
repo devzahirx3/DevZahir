@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/LXc7LfG/avatar-devzahir-modified.png](https://i.ibb.co/LXc7LfGM/avatar-devzahir-modified.png)" alt="Dev Zahir Logo" width="100"/>
+<img src="https://i.ibb.co/LXc7LfG/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="100"/>
 
 # Dev Zahir
 
