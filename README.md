@@ -25,6 +25,21 @@ Innovative and self-driven full-stack developer specializing in AI-powered solut
 ---
 
 ## 🛠️ Skills
+- React
+- NextJS
+- Redux
+- Express
+- NestJS
+- MySQL
+- MongoDB
+- Docker
+- AWS
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+
 
 ### ⚙️ Languages & Frameworks
 - **Python** – Automation, AI, backend APIs, Django
