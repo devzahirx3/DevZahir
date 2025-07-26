@@ -5,7 +5,7 @@
 <h1 align="center">Dev Zahir</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | AI Specialist | Self-Taught Creator</strong><br/>
+<strong>Full-Stack Developer | AI Specialist | JavaScript Enthusiast</strong><br/>
   📍 California, USA &nbsp; • &nbsp; 📧 devzahirllc@gmail.com &nbsp; • &nbsp; 📱 WhatsApp: +1 901-335-9043
 </p>
 
