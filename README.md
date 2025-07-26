@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://devzahir.com">DevZahir.com</a> • <a href="https://aizahir.netlify.app/">AI Zahir</a> • 
+  <a href="https://devzahir.com">DevZahir.com</a> • <a href="https://aizahir.netlify.app/">AI Zahir</a> • 
   <a href="https://github.com/devzahirx3">GitHub</a> • 
   <a href="https://linkedin.com/in/dev-zahir-54baa5376">LinkedIn</a> • 
   <a href="https://fiverr.com/s/m5Vb1g8">Fiverr</a>
