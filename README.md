@@ -2,7 +2,11 @@
   <img src="https://i.ibb.co/LXc7LfGM/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="120"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%E2%80%99m+Dev+Zahir;I'm+a+Professional+Program+Developer.)](https://git.io/typing-svg)
+<h2 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%E2%80%99m+Dev+Zahir;I'm+a+Professional+Program+Developer." alt="Typing SVG">
+  </a>
+</h2>
 
 <p align="center">
 <strong>Full-Stack Developer | AI Specialist | JavaScript Enthusiast</strong><br/>
