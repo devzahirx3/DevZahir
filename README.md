@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%E2%80%99m+Dev+Zahir;I'm+a+Professional+Program+Developer.)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://i.ibb.co/LXc7LfGM/avatar-devzahir-modified.png" alt="Dev Zahir Logo" width="120"/>
 </p>
